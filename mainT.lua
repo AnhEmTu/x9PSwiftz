@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhEmTu/x9PSwiftz/refs/heads/main/main-mod-r2lx-wibu%20.lua"))()
